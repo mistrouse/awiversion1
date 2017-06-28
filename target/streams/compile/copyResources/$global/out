@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/florianeMac/awi/conf/application.conf,/Users/florianeMac/awi/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/florianeMac/awi/conf/evolutions,/Users/florianeMac/awi/target/scala-2.10/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/florianeMac/awi/conf/routes,/Users/florianeMac/awi/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/florianeMac/awi/conf/evolutions/default,/Users/florianeMac/awi/target/scala-2.10/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/florianeMac/awi/conf/evolutions/default/1.sql,/Users/florianeMac/awi/target/scala-2.10/classes/evolutions/default/1.sql)[0m
